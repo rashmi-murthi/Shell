@@ -1,3 +1,4 @@
 # Shell
 Schell Scripts
-made some chnages to test the repository
+made some chanages to test the repository
+some more chanages 
